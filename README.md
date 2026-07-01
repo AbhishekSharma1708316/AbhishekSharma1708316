@@ -1,123 +1,97 @@
-# 👋 Hi, I'm Abhishek Sharma
+<div align="center">
 
-### 🤖 AI & Data Science Undergrad | Builder | Problem Solver
+# Abhishek Sharma
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/abhishek-sharma-a99b8b343/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="https://leetcode.com/u/AbhishekSharma1708/" target="_blank">
-    <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
-  </a>
-  <a href="mailto:abhisheksharma172005@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</p>
+**AI & Data Science Undergrad · IIIT Raichur · Batch 2028**
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abhishek-sharma-a99b8b343/)
+[![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=flat-square&logo=leetcode&logoColor=black)](https://leetcode.com/u/AbhishekSharma1708/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abhisheksharma172005@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/AbhishekSharma1708316)
+
+</div>
 
 ---
 
-- 🎓 B.Tech in **Artificial Intelligence & Data Science** @ IIIT Raichur (2024–2028) | CGPA: 8.5/10
-- 🔭 Currently building: **Reconciler** — a Flask-based ledger & bank reconciliation platform with an OCR pipeline and self-learning matching engine
-- 🌱 Currently exploring: **System Design**, **LLM integration**, **RAG pipelines**
-- 💬 Ask me about: Python · C++ · Machine Learning · Flask · FastAPI · DSA
-- ⚡ Fun fact: I love turning messy financial data into clean, automated workflows
-- 📫 Reach me: [abhisheksharma172005@gmail.com](mailto:abhisheksharma172005@gmail.com)
+## About Me
+
+I'm a second-year B.Tech student in Artificial Intelligence & Data Science at IIIT Raichur (CGPA: 8.5/10), passionate about building systems that solve real operational problems — not just demos.
+
+My current focus is **Reconciler**, a production-oriented Flask platform that automates financial reconciliation for CA firms and MSMEs using an OCR pipeline and a self-learning matching engine. Beyond that, I work across full-stack ML, RAG systems, and competitive programming.
+
+- 🔭 &nbsp;Currently building: **Reconciler** — ledger & bank reconciliation platform
+- 🌱 &nbsp;Currently deepening: System Design · LLM Pipelines · Advanced DSA
+- 💬 &nbsp;Ask me about: Python · C++ · Flask · FastAPI · Machine Learning · DSA
+- 📫 &nbsp;Reach me: [abhisheksharma172005@gmail.com](mailto:abhisheksharma172005@gmail.com)
 
 ---
 
-## 🛠️ Tech Stack
+## Tech Stack
 
-**Languages**
-
-![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white)
-![C++](https://img.shields.io/badge/C++-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
-
-**Web & Backend**
-
-![Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-
-**ML / Data**
-
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Scikit-learn](https://img.shields.io/badge/Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
-![LightGBM](https://img.shields.io/badge/LightGBM-9ACD32?style=flat-square)
-
-**Databases**
-
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
-
-**Tools & Platforms**
-
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonaws&logoColor=white)
-![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
+| Area | Technologies |
+|---|---|
+| **Languages** | C · C++ · Java · Python · JavaScript |
+| **Web & Backend** | Flask · FastAPI · REST APIs · HTML · CSS |
+| **ML / Data** | Scikit-learn · LightGBM · Pandas · NumPy |
+| **Databases** | MySQL · PostgreSQL · MongoDB · Pinecone |
+| **Tools & Platforms** | Git · Docker · AWS · Netlify · Streamlit · Google Colab |
+| **Core CS** | DSA · OOP · DBMS · OS · Computer Networks · System Design |
+| **AI / ML Concepts** | Machine Learning · Deep Learning · NLP · Generative AI · RAG · Vector Embeddings |
 
 ---
 
-## 📌 Projects
+## Projects
 
-### 🏦 [Reconciler — Ledger & Bank Reconciliation Platform](https://github.com/AbhishekSharma1708316)
-> Python · Flask · Scikit-learn · Pytesseract · OpenCV · Pandas
+### [Reconciler — Ledger & Bank Reconciliation Platform](https://github.com/AbhishekSharma1708316)
+`Python` `Flask` `Pytesseract` `OpenCV` `Scikit-learn` `Pandas`
 
-A Flask web app that replaces manual finance workflows with an automated reconciliation engine.
-- Multi-stage matching engine (date tolerance + debit/credit mirroring) with a **self-learning narration agent** that improves from human feedback
-- OCR pipeline using Pytesseract to parse scanned HDFC bank PDFs into structured, audit-ready Excel reports — zero runtime AI dependency
-- Covers both ledger-to-ledger and bank-statement-to-book reconciliation across multi-sheet Excel workbooks
+> Automates financial reconciliation workflows for CA firms and MSMEs — replacing manual, error-prone Excel comparisons with an intelligent matching engine.
 
----
-
-### 🧠 [DocuMind — RAG Document Intelligence System](https://github.com/AbhishekSharma1708316)
-> FastAPI · ChromaDB · Pinecone · LLMs · Vector Embeddings
-
-- Retrieval-Augmented Generation pipeline for document Q&A: ingestion → chunking → semantic search → vector storage
-- REST API layer via FastAPI with LLM integration for context-aware, source-grounded responses
+- Designed a **multi-stage matching engine** using date tolerance and debit/credit mirroring as primary keys, with a self-learning narration agent that mines recurring equivalences from high-confidence matches and refines via human feedback
+- Engineered an **OCR pipeline** (Pytesseract + pixel-based column reconstruction) to convert scanned bank statement PDFs into structured transactions with zero runtime AI dependency
+- Outputs audit-ready Excel reconciliation reports; supports ledger-to-ledger and bank-statement-to-book flows across multi-sheet workbooks
 
 ---
 
-### 🚗 [Used Car Price Prediction System](https://github.com/AbhishekSharma1708316)
-> Python · Scikit-learn · Pandas · Feature Engineering
+### [DocuMind — RAG Document Intelligence System](https://github.com/AbhishekSharma1708316)
+`FastAPI` `ChromaDB` `Pinecone` `LLMs` `Vector Embeddings`
 
-- Regression pipeline trained on real-world listing data with feature engineering and cross-validated model selection
-- Compared multiple regression models and benchmarked using cross-validated error metrics
+> Intelligent document Q&A system powered by Retrieval-Augmented Generation.
 
----
-
-## 🏆 Achievements
-
-- 🥊 **Flipkart GRiD** — Built a LightGBM traffic-demand prediction pipeline achieving a near-perfect leaderboard score
-- 💡 **Summer Analytics 2025** — Certified by the Consulting & Analytics Club, IIT Guwahati
-- 💻 **LeetCode** — 200+ problems solved (Dynamic Programming · Graphs · Binary Search) → [AbhishekSharma1708](https://leetcode.com/u/AbhishekSharma1708/)
+- Built the full RAG pipeline: document ingestion → chunking → semantic search → vector storage (ChromaDB + Pinecone)
+- Exposed via REST APIs in FastAPI; integrated LLMs for context-aware, source-grounded responses
 
 ---
 
-## 📊 GitHub Stats
+### [Used Car Price Prediction System](https://github.com/AbhishekSharma1708316)
+`Python` `Scikit-learn` `Pandas` `Feature Engineering`
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=AbhishekSharma1708316&show_icons=true&theme=tokyonight&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=AbhishekSharma1708316&layout=compact&theme=tokyonight&hide_border=true" width="40%" />
-</p>
+> End-to-end regression pipeline for used vehicle price estimation from real-world listing data.
 
----
-
-## 📬 Connect With Me
-
-<p>
-  <a href="https://www.linkedin.com/in/abhishek-sharma-a99b8b343/">💼 LinkedIn</a> &nbsp;|&nbsp;
-  <a href="https://leetcode.com/u/AbhishekSharma1708/">🧩 LeetCode</a> &nbsp;|&nbsp;
-  <a href="mailto:abhisheksharma172005@gmail.com">📧 Email</a>
-</p>
+- Applied feature engineering, preprocessing, and cross-validated model selection across multiple regression algorithms
+- Benchmarked models using cross-validated error metrics to identify the best-performing estimator
 
 ---
 
-_Thanks for stopping by! Check out my pinned repositories below 👇_
+## Achievements
+
+| | |
+|---|---|
+| 🏆 **Flipkart GRiD** | Built a LightGBM traffic-demand prediction pipeline with a table-lookup strategy — near-perfect leaderboard score |
+| 📜 **Summer Analytics 2025** | Certified by the Consulting & Analytics Club, IIT Guwahati |
+| 💻 **LeetCode** | 200+ problems solved across Dynamic Programming, Graphs & Binary Search — [AbhishekSharma1708](https://leetcode.com/u/AbhishekSharma1708/) |
+
+---
+
+## Roles & Responsibilities
+
+- **Core Member, T&P Cell** — IIIT Raichur · Coordinate recruiter outreach, internship drives, and pre-placement communication for the batch
+- **Core Member, Mathematics Club** — IIIT Raichur · Organise problem-solving sessions and technical discussions
+
+---
+
+<div align="center">
+
+*Thanks for visiting — feel free to explore the pinned repositories below.*
+
+</div>
